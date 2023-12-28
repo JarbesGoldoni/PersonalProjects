@@ -1,5 +1,5 @@
 import mysql from 'mysql'
-import password from './password.js'
+import password from './password.js' // you dont need to import a password
 
 const mypassword = password //change it to be your password
 

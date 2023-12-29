@@ -1,0 +1,5 @@
+{
+  "dataworkspace.excludedProjects": [
+    "Azure/DatabaseProjectmySampleDatabase/DatabaseProjectmySampleDatabase.sqlproj"
+  ]
+}

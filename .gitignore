@@ -1,2 +1,7 @@
 mySQL/password.js
 Azure/contoso-retail/.env
+Azure/contoso-retail/node_modules
+emailSender/node_modules
+fileUploader/node_modules
+mySQL/node_modules
+youknow/node_modules
